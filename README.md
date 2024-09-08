@@ -84,7 +84,8 @@ Want to know more about me?
 
 ## Certifications
 
-### 2024
+<details>
+<summary><b> 2024</b></summary>
 
 [Angular desde cero a experto: Crear una aplicación real](https://www.udemy.com/certificate/UC-f15b91b4-818e-4096-b5fc-6dce8cf16da4/) | Udemy
 
@@ -100,7 +101,9 @@ Want to know more about me?
 
 [Curso de Frontend Developer](https://platzi.com/p/macry_08772/curso/2467-course/diploma/detalle/) | Platzi
 
-### 2023
+</details>
+<details>
+<summary><b> 2023</b></summary>
 
 [Curso de Pensamiento Lógico: Algoritmos y Diagramas de Flujo](https://platzi.com/p/macry_08772/curso/3221-course/diploma/detalle/) | Platzi
 
@@ -125,11 +128,15 @@ Want to know more about me?
 [Diploma de Prueba Técnica: Desarrollo Frontend con Angular](https://platzi.com/p/macry_08772/curso/4044-course/diploma/detalle/) | Platzi
 
 
-### 2022
+</details>
+<details>
+<summary><b> 2022</b></summary>
 
 [Principios Solid Y Clean Code](https://www.udemy.com/certificate/UC-e4097eb0-6118-4bfc-83d9-7746e449b260/) | Udemy 
 
-### 2021
+</details>
+<details>
+<summary><b> 2021</b></summary>
 
 [Curso de Laravel desde cero + APIs RESTful y webs Angular](https://www.udemy.com/certificate/UC-71ca3aeb-4091-44a0-8d74-6999563c57cd/) | Udemy
 
